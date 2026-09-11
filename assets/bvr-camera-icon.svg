@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%" fill="#ed2324">
+    <!-- Dual camera reel circles -->
+    <circle cx="28" cy="28" r="26" />
+    <circle cx="72" cy="28" r="26" />
+    <!-- Camera base and projector wedge -->
+    <path d="M 6 52 H 94 L 20 96 V 60 H 6 Z" />
+</svg>
